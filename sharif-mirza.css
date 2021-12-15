@@ -1,0 +1,17 @@
+#style1 {color: rgba(44, 3, 56, 0.596)}
+.cl {text-align:left;color: rgba(20, 4, 5, 0.692);font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.cl2 {text-align:center;font-size: 30px;background-color: aquamarine;}
+#sl2 {text-align: right}
+#sl3 {text-align:center;color: blue;background:yellowgreen;padding: 5px; font-size: 60px;}
+.cl4 {font-size: 40px;background-color: turquoise;text-align: ; padding: 42px;}
+.h1 {text-align: center;color:rgb(18, 123, 243);background-color: hotpink;padding: 40px;float: center;font-size: 50px;}
+.BG {background-color: rgb(188, 205, 209); text-align: center; color: rgb(255, 0, 0);font-size: 25px;}
+div {border: 35px solid rgb(72, 7, 92);
+margin: 2px ;
+padding: 2px;
+width: 90%;
+align:center;
+border-radius: 30px
+}
+p {border: springgreen  solid yellow 20px;
+ }
